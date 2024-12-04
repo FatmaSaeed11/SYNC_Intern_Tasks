@@ -6,12 +6,12 @@ Task 1:
 
 Task 2:
 
-.Face Mask Detection .
+.Face Mask Detection using CNN .
 
 Task3:
 
-.Boston House price prediction . 
+.Boston House price prediction using Regression. 
 
 Task 4:
 
-.Sign Language Classification .
+.Sign Language Classification using CNN .
